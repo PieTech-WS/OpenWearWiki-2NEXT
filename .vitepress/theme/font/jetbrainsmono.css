@@ -1,0 +1,5 @@
+@font-face {
+    font-family: 'Jetbrains Mono';
+    src: url('./JetBrainsMono[wght].ttf') format('truetype')
+    url('./JetBrainsMono-Italic[wght].ttf') format('truetype')
+}

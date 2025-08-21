@@ -1,0 +1,8 @@
+{
+  "chip/bestechnic": "bestechnic.svg",
+  "chip/hisilicon": "hisilicon.svg",
+  "os/hmosnext": "hmosnext.svg",
+  "os/vela": "vela.svg",
+  "os/hyperos": "xiaomihyperos.svg",
+  "chip/xring": "xring.svg"
+}

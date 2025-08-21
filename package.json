@@ -1,0 +1,22 @@
+{
+  "name": "openwearwiki-vp",
+  "version": "25.2.0",
+  "description": "Open Wearables Wiki for everyone.",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "keywords": [
+    "wiki",
+    "openwearwiki"
+  ],
+  "author": "The OpenWearWiki Authors",
+  "license": "SEE LICENSE IN LICENSE",
+  "devDependencies": {
+    "crypto": "^1.0.1",
+    "less": "^4.2.2",
+    "vitepress": "^1.6.3"
+  }
+}
