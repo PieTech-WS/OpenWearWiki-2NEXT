@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 查看Wiki
-      link: /wiki/wiki-mainpage
+      link: /wiki/wiki-index
     - theme: alt
       text: Wiki文档
       link: /api-examples
